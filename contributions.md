@@ -24,4 +24,4 @@ Replace the first row with your own contribution.
 |---|:---|:---|:---|
 | Feb 3   | link to my contribution    | course website    |   I fixed a broken link.    |
 |  Feb 3   |  [contribution link 1](https://www.openstreetmap.org/changeset/132062245#map=19/39.93907/116.36169) [contribution link 2](https://www.openstreetmap.org/changeset/132062088#map=19/39.94324/116.35623)   |  open street map  |   Firstly added information of subway entries near my home and secondly added information of the building of my home   |
-|     |     |     |      |
+|  Feb 6  |  https://en.wikipedia.org/wiki/Special:Contributions/7ozCheese  |   wikipedia  |   Added information describing the functions of a software, Procreate   |
