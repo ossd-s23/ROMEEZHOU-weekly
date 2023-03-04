@@ -27,3 +27,4 @@ Replace the first row with your own contribution.
 |  Feb 16  |  [Github Issue](https://github.com/algorithm-visualizer/algorithm-visualizer/issues/355)  |   Github Issue  |   Posting an issue pointing out CONTRIBUTING.md for this project is not properly formed and could indirectly cause confusion   |
 |  Feb 24  |  [OpenStreetMap](https://www.openstreetmap.org/changeset/132982850#map=19/39.93988/116.36101)  |   open street map  |  added information for a culture center and a pharmacy next to it  |
 |  Mar 03  |  [Github Issue](https://github.com/codebasics/data-structures-algorithms-python/issues/67)  |   Github Issue  |  Answered a question asked in Issues  |
+|  Mar 04  |  [Classmate Github Issue](https://github.com/ossd-s23/Shenghan0329-weekly/issues/1)  |   Github Issue  |  Suggested adding future:true to _config.yml to allow future blogs  |
