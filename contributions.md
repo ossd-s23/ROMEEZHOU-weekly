@@ -30,3 +30,4 @@ Replace the first row with your own contribution.
 |  Mar 04  |  [Classmate Github Issue](https://github.com/ossd-s23/Shenghan0329-weekly/issues/1)  |   Github Issue  |  Suggested adding future:true to _config.yml to allow future blogs  |
 |  Mar 12 |  [Github Issue](https://github.com/qiyuangong/leetcode/issues/79)  |   Github Issue  |  In this repo providing solution to Leetcode problems, I propose an additional solution to an algorithm problem (PR later accepted) |
 |  Mar 20 |  [Github PR towards previous issue](https://github.com/qiyuangong/leetcode/pull/80)  |   Github PR  |  Made a PR towards the previous issue and got merged |
+|  Apr 19 |  [OpenStreetMap](https://www.openstreetmap.org/changeset/135115141#map=19/39.94508/116.36527)  |   open street map  | Delete a cafe that is no longer exists and add a new tag for a restaurant |
