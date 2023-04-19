@@ -29,3 +29,4 @@ Replace the first row with your own contribution.
 |  Mar 03  |  [Github Issue](https://github.com/codebasics/data-structures-algorithms-python/issues/67)  |   Github Issue  |  Answered a question asked in Issues  |
 |  Mar 04  |  [Classmate Github Issue](https://github.com/ossd-s23/Shenghan0329-weekly/issues/1)  |   Github Issue  |  Suggested adding future:true to _config.yml to allow future blogs  |
 |  Mar 12 |  [Github Issue](https://github.com/qiyuangong/leetcode/issues/79)  |   Github Issue  |  In this repo providing solution to Leetcode problems, I propose an additional solution to an algorithm problem (PR later accepted) |
+|  Mar 20 |  [Github PR towards previous issue](https://github.com/qiyuangong/leetcode/pull/80)  |   Github PR  |  Made a PR towards the previous issue and got merged |
