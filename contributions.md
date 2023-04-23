@@ -34,3 +34,4 @@ Replace the first row with your own contribution.
 |  Apr 19 |  [Github Issue](https://github.com/prakhar1989/Algorithms/issues/102)  |   Github Issue  | comment on an issue to clarify a doubt |
 |  Apr 22 |  [OpenStreetMap](https://www.openstreetmap.org/changeset/135235560#map=19/39.94628/116.36635)  |   open street map  | Adjust a restaurant's location and add more information about it |
 |  Apr 22 |  [OpenStreetMap](https://www.openstreetmap.org/changeset/135235679#map=19/39.94112/116.35747)  |   open street map  | Add two restaurant on the map |
+|  Apr 23 |  [OpenStreetMap](https://www.openstreetmap.org/changeset/135271832#map=19/39.93511/116.35274)  |   open street map  | Add a bank, a supermarket and a 711 store |
